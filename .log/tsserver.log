@@ -5496,3 +5496,11 @@ Info 5488 [22:09:39.990] Different program with same set of files:: structureIsR
 Info 5489 [22:09:41.529] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
 Info 5490 [22:09:41.544] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1367 structureChanged: false Elapsed: 14.223404999822378ms
 Info 5491 [22:09:41.544] Different program with same set of files:: structureIsReused:: 2
+Info 5492 [22:27:55.480] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5493 [22:27:56.316] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1368 structureChanged: false Elapsed: 835.9120490010828ms
+Info 5494 [22:27:56.316] Different program with same set of files:: structureIsReused:: 2
+Info 5495 [22:28:33.603] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5496 [22:28:33.639] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1369 structureChanged: false Elapsed: 36.49929700046778ms
+Info 5497 [22:28:33.640] Different program with same set of files:: structureIsReused:: 2
+Info 5498 [22:31:54.173] FileWatcher:: Triggered with /run/media/robin/Learning/Development/web/Programming-Hero/Projects/assignment-11/server/package.json 1:: WatchInfo: /run/media/robin/Learning/Development/web/Programming-Hero/Projects/assignment-11/server/package.json 250 undefined Project:  WatchType: package.json file for import suggestions
+Info 5499 [22:31:54.224] Elapsed:: 51.046916000545025ms FileWatcher:: Triggered with /run/media/robin/Learning/Development/web/Programming-Hero/Projects/assignment-11/server/package.json 1:: WatchInfo: /run/media/robin/Learning/Development/web/Programming-Hero/Projects/assignment-11/server/package.json 250 undefined Project:  WatchType: package.json file for import suggestions
